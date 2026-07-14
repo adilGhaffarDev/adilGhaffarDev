@@ -29,17 +29,3 @@ I contribute to the Kubernetes ecosystem — from bare-metal infrastructure to r
 [![GitHub Streak](https://streak-stats.demolab.com?user=adilGhaffarDev&theme=tokyo-night&hide_border=true)](https://git.io/streak-stats)
 
 ---
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=adilGhaffarDev&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adilGhaffarDev/adilGhaffarDev/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adilGhaffarDev/adilGhaffarDev/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/adilGhaffarDev/adilGhaffarDev/output/github-snake.svg" />
-</picture>
