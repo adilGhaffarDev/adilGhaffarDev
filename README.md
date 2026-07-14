@@ -18,9 +18,6 @@ I contribute to the Kubernetes ecosystem — from bare-metal infrastructure to r
 
 ---
 
-###  GitHub Stats
+### 📈 Contribution Graph
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=adilGhaffarDev&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilGhaffarDev&layout=compact&hide_border=true" alt="Top Languages" height="170" />
-</p>
+[![Adil's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adilGhaffarDev&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
