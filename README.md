@@ -24,8 +24,8 @@ I contribute to the Kubernetes ecosystem — from bare-metal infrastructure to r
 
 ---
 
-### 🔥 Streak Stats
+### 🗣️ Top Languages
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=adilGhaffarDev&theme=tokyo-night&hide_border=true)](https://git.io/streak-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adilGhaffarDev&layout=compact&theme=tokyo-night&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
